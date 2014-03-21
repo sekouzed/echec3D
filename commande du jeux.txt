@@ -1,0 +1,15 @@
+touche "H" ou "h" => Masquer ou Afficher l'Aide
+
+touche "O" ou "o" => Masquer ou Afficher l'ombre
+
+touche "B" ou "b" => Activer ou deactiver le brouillard
+
+touche "F" ou "f" => Activer ou deactiver le reflet
+
+touche "R" ou "r" => La rotation automatique
+
+touche   "Fleches" => La rotation manuelle
+
+touche   "Espace" => Affichage en plain ecran
+
+touche      "Esc" => Quitter le jeux
